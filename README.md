@@ -1,18 +1,29 @@
 # vue-weather
 
-> A Vue.js project
+> A weather app built using Vue
 
-## Build Setup
+## Screenshots
 
-``` bash
-# install dependencies
-npm install
+![weather](https://github.com/SaadK94/vue-weather/blob/master/screenshots/weather.png)
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Installation
 
-# build for production with minification
-npm run build
+This project requires [npm](https://npmjs.com) installed globally.
+
+Clone the repository to a directory of your choosing
+
+```
+$ git clone https://github.com/SaadK94/vue-weather.git
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Install the necessary packages
+
+```
+npm install
+```
+
+To start up the app locally
+
+```
+npm run dev
+```
